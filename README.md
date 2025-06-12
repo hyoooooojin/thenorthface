@@ -1,5 +1,7 @@
 🏡 homepage: https://hyoooooojin.github.io/thenorthface/
 
+## 🔧 Tech Stack
+
 ```
 - Vite              # 빠르고 가벼운 프론트엔드 빌드 도구
 - React             # 자바스크립트 라이브러리
